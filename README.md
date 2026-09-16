@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · fCH1NlE6 -->
-## Notification 1/2
-Round: Round 1
-To: steve-ensley@sbcglobal.net, sundaydinnerfarm@gmail.com
-At: 2026-09-16 14:32:34
-Id: fCH1NlE6
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: pjbrown3333@yahoo.com, triciabucher@hotmail.com
+At: 2026-09-16 14:32:42
+Id: N3EhaB85
